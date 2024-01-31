@@ -26,6 +26,9 @@
                 "GitHub.copilot",
                 "GitHub.vscode-github-actions",
                 "ms-dotnettools.vscode-dotnet-runtime",
+                "ms-dotnettools.vscode-azurefunctions",
+                "ms-azuretools.vscode-azurefunctions",
+                "ms-azuretools.vscode-bicep",
                 "ms-dotnettools.csdevkit",
                 "ms-dotnetools.csharp"
             ]
